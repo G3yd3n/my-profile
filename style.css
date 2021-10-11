@@ -1,0 +1,78 @@
+
+@import url('https://fonts.googleapis.com/css2?family=Open+Sans:wght@300&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Open+Sans:wght@300&family=Raleway:wght@300&family=Varela&display=swap');
+
+h1 {
+  font-family: 'Varela', sans-serif;
+  color: #174151;
+  font-size: 24px;
+  text-align: center;
+}
+
+h2 {
+  color: rgb(118, 197, 171);
+  font-size: 16px;
+  font-family: 'Raleway', sans-serif;
+}
+
+p {
+  font-family: 'Open Sans', sans-serif;
+  color: #6398a3;
+  font-size: 14px;
+}
+
+a {
+  color: #ffffff ;
+  text-decoration: none;
+}
+
+a:hover {
+  color: #8d8d8d ;
+}
+
+.fab {
+  color: #63B4B8;
+}
+
+.container {
+  width: 700px;
+  margin: 0 auto;
+}
+
+.img-circle {
+  border-radius: 50%;
+  width: 100px;
+}
+
+.title-center {
+  text-align: center;
+}
+
+.btn-blue-grey {
+  background: #A2D2FF;
+  margin-top: 20px;
+  padding: 10px 15px 10px 15px;
+  border-radius: 8px;
+}
+
+.shadowed {
+  box-shadow: 2px 4px 10px rgb(173, 172, 172);
+}
+
+.card-white {
+  text-align: center;
+  background: white;
+  padding: 30px;
+  border: 1px solid lightgrey;
+  margin: 20px 50px;
+}
+
+.list-inline li {
+  display: inline-block;
+  padding 0px 20px;
+}
+
+.list-inline {
+  list-style: none;
+  padding-left: 0px;
+}
